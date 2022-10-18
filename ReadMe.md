@@ -12,7 +12,7 @@
 <br> 
 (*) co-first authors (+) corresponding author  
     
-#### <a href="url">[Link to the Manuscript]</a> | <a href="https://dc286d1b4e7dbd1e.gradio.app">[Link to the Online Tool]</a>
+#### <a href="url">[Link to the Manuscript]</a> | <a href="https://1f7c9f9cd5735e6a.gradio.app">[Link to the Online Tool]</a>
 
 </div> 
 
