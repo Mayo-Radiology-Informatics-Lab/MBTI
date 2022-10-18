@@ -1,6 +1,6 @@
 <div align='center'>    
     
-# Multi-task Brain Tumor Inpainting with Diffusion Models
+<h1> Multi-task Brain Tumor Inpainting with Diffusion Models
 
 </div>
     
