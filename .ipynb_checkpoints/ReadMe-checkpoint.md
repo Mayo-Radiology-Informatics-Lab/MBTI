@@ -1,27 +1,19 @@
-<div align="center">   
-    <h1>
-        <span style="font-size:40px;">
-            Multi-task Brain Tumor Inpainting with Diffusion Models
-        </span> 
-        <br><br>
-        <span style="font-size:10px;">
-            Pouria Rouzrokh<sup>1,2,*</sup>, Bardia Khosravi<sup>1,2,*</sup>, Shahriar Faghani<sup>1</sup>, Mana Moassefi<sup>1</sup>, Sanaz Vahdati<sup>1</sup>, Bradley J. Erickson<sup>1,+</sup>
-        </span>
-        <br>
-        <span style="font-size:5px;">
-            (1) Mayo Clinic Artificial Intelligence Laboratory (2) Orthopedic Surgery Artificial Intelligence Laboratory
-            <br>
-            (*) co-first authors (+) corresponding author
-        </span>
-        <br><br>
-        <span style="font-size:10px;">
-            <a href="url">[Link to the Manuscript]</a>
-            <a href="https://ebac4e2a0e056d58.gradio.app">[Link to the Online Tool]</a>
-        </span>
-    </h1>
-</div>
+<center>
+    
+# Multi-task Brain Tumor Inpainting with Diffusion Models
 
-***
+<div align='center'>    
+Pouria Rouzrokh<sup>1,2,*</sup>, Bardia Khosravi<sup>1,2,*</sup>, Shahriar Faghani<sup>1</sup>, Mana Moassefi<sup>1</sup>, Sanaz Vahdati<sup>1</sup>, Bradley J. Erickson<sup>1,+</sup>
+<br>
+(1) Mayo Clinic Artificial Intelligence Laboratory (2) Orthopedic Surgery Artificial Intelligence Laboratory
+<br> 
+(*) co-first authors (+) corresponding author    
+</div>  
+    
+#### <a href="url">[Link to the Manuscript]</a> | <a href="https://ebac4e2a0e056d58.gradio.app">[Link to the Online Tool]</a>
+
+
+*** 
 <br>
 
 

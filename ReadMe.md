@@ -2,17 +2,15 @@
     
 # Multi-task Brain Tumor Inpainting with Diffusion Models
 
-<center>  
+<div align='center'>    
 Pouria Rouzrokh<sup>1,2,*</sup>, Bardia Khosravi<sup>1,2,*</sup>, Shahriar Faghani<sup>1</sup>, Mana Moassefi<sup>1</sup>, Sanaz Vahdati<sup>1</sup>, Bradley J. Erickson<sup>1,+</sup>
 <br>
 (1) Mayo Clinic Artificial Intelligence Laboratory (2) Orthopedic Surgery Artificial Intelligence Laboratory
 <br> 
-(*) co-first authors (+) corresponding author
+(*) co-first authors (+) corresponding author    
+</div>  
     
-<center>  
-    
-#### <a href="url">[Link to the Manuscript]</a>
-#### <a href="https://ebac4e2a0e056d58.gradio.app">[Link to the Online Tool]</a>
+#### <a href="url">[Link to the Manuscript]</a> | <a href="https://ebac4e2a0e056d58.gradio.app">[Link to the Online Tool]</a>
 
 
 *** 
