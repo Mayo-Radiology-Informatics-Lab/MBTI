@@ -47,7 +47,7 @@ Our online tool is a graphical user interface made possible by [Gradio](https://
 - Utilize the color picker tool to select the color that corresponds to your desired ROI. After selecting the color-picking tool, please click on the colored portion of any of the color boxes below the input image to draw with that color (please watch the demo above to see how this works).
 - If you are using a non-standard monitor, such as a mobile device, the color-picker tool may select non-standard pixel values; therefore, it is advisable to manually enter the RGB values for your ROI brush color. The following table displays the RGB values for the various ROIs that can be annotated on input images:
 
-<div center='align'>
+<div align='center'>
     
 <table style="max-width:500px; border:1px solid black;">
   <tr>
