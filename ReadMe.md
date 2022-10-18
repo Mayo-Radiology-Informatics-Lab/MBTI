@@ -48,6 +48,7 @@ Our online tool is a graphical user interface made possible by [Gradio](https://
 - If you are using a non-standard monitor, such as a mobile device, the color-picker tool may select non-standard pixel values; therefore, it is advisable to manually enter the RGB values for your ROI brush color. The following table displays the RGB values for the various ROIs that can be annotated on input images:
 
 <div center='align'>
+    
 <table style="max-width:500px; border:1px solid black;">
   <tr>
     <th align='left'> Region of Interest (ROI)</th>
@@ -86,6 +87,7 @@ Our online tool is a graphical user interface made possible by [Gradio](https://
     <td>0</td>
   </tr>
 </table>
+    
 </div>
 
 - You can select the checkbox for any of the ROIs you have drawn to have our tool treat it as a bounding box. Please note that in the bounding box mode, synthetic pixels will be created within the annotated bounding box such that it is the smallest bounding box that can fit around the ROI. However, the resulting ROI will not completely fill the bounding box. In other words, our model will decide for itself what contour the ROI should have and will fill in the surrounding environment with tumor-free brain tissue.
