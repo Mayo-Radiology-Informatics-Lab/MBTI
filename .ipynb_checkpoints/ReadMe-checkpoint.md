@@ -24,7 +24,7 @@
 
 <div align='center'> 
     
-<img style="border:2px solid black;" align="middle" width="700" src="demo.gif">
+<img style="border:5px solid black;" align="middle" width="700" src="demo.gif">
     
 </div>
 
