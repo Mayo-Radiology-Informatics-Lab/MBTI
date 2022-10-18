@@ -1,20 +1,20 @@
-<!-- <div align="center">   
+<div align="center">   
     <h1>
         <span style="font-size:40px;">
             Multi-task Brain Tumor Inpainting with Diffusion Models
         </span> 
         <br><br>
-        <span style="font-size:15px;">
+        <span style="font-size:10px;">
             Pouria Rouzrokh<sup>1,2,*</sup>, Bardia Khosravi<sup>1,2,*</sup>, Shahriar Faghani<sup>1</sup>, Mana Moassefi<sup>1</sup>, Sanaz Vahdati<sup>1</sup>, Bradley J. Erickson<sup>1,+</sup>
         </span>
         <br>
-        <span style="font-size:10px;">
+        <span style="font-size:5px;">
             (1) Mayo Clinic Artificial Intelligence Laboratory (2) Orthopedic Surgery Artificial Intelligence Laboratory
             <br>
             (*) co-first authors (+) corresponding author
         </span>
         <br><br>
-        <span style="font-size:20px;">
+        <span style="font-size:10px;">
             <a href="url">[Link to the Manuscript]</a>
             <a href="https://ebac4e2a0e056d58.gradio.app">[Link to the Online Tool]</a>
         </span>
@@ -23,7 +23,7 @@
 
 ***
 <br>
- -->
+
 
 **Multitask Brain Tumor Inpainting (MBTI)** is a denoising diffusion probabilistic model (DDPM), developed by the *Mayo Clinic Artificial Intelligence Laboratory*, that can be used to inpaint an axial slice of a brain magnetic resonance imaging (MRI) in either of the T1-weighted, post-contrast T1-weighted, T2-weighted, or Fluid attenuation inversion recovery (FLAIR) sequences. "Inpainting" refers to the ability of the proposed model to fill one or multiple cropped areas of an input image (i.e., a two-dimensional axial brain MRI slice) with tumor-free (apparently normal) brain tissue, necrotic tumor core, tumoral edema, tumoral enhancement, or a combination of the tumoral components. Similarly, the term "multitask" means that the model is able to simultaneously inpaint various cropped regions of the input image with distinct components (in a single inference run). Please refer to our [manuscript]() for further information about our tool.
 
