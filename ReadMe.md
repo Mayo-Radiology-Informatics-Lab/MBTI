@@ -22,7 +22,7 @@
 
 **Multitask Brain Tumor Inpainting (MBTI)** is a denoising diffusion probabilistic model (DDPM), developed by the *Mayo Clinic Artificial Intelligence Laboratory*, that can be used to inpaint an axial slice of a brain magnetic resonance imaging (MRI) in either of the T1-weighted, post-contrast T1-weighted, T2-weighted, or Fluid attenuation inversion recovery (FLAIR) sequences. "Inpainting" refers to the ability of the proposed model to fill one or multiple cropped areas of an input image (i.e., a two-dimensional axial brain MRI slice) with tumor-free (apparently normal) brain tissue, necrotic tumor core, tumoral edema, tumoral enhancement, or a combination of the tumoral components. Similarly, the term "multitask" means that the model is able to simultaneously inpaint various cropped regions of the input image with distinct components (in a single inference run). Please refer to our [manuscript]() for further information about our tool.
 
-<center><img style="border:2px solid black;" align="middle" width="1000" src="https://i.ibb.co/cQGRtWC/demo.gif"></center>
+<img style="border:2px solid black;" align="middle" width="1000" src="https://i.ibb.co/cQGRtWC/demo.gif">
 
 <br>
 The current repository includes both an online tool for utilizing our model and the source code for the UNet model which was used to train our algorithm (adopted from <a href=https://github.com/openai/improved-diffusion>here</a>). 
