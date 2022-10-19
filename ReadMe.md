@@ -14,7 +14,7 @@ Mayo Clinic, MN, USA
 <br> 
 (*) co-first authors (+) corresponding author  
     
-#### <a href="url">[Link to the Manuscript]</a> | <a href="https://f64667153facf5c1.gradio.app">[Link to the Online Tool]</a>
+#### <a href="url">[Link to the Manuscript]</a> | <a href="https://e71fb48f07d16529.gradio.app">[Link to the Online Tool]</a>
 
 </div> 
 
@@ -122,7 +122,7 @@ The following data scientists contributed to developing the Multitask Brain Tumo
 
 | | | 
 |---|---|
-|<a href='https://scholar.google.com/citations?user=Ksv9I0sAAAAJ&hl=en&inst=12058184521150304743'> <img style="border:2px solid black;" align="middle" width="800" src="https://i.ibb.co/TwqPxM6/Pouria.png"></a>|<a href='https://scholar.google.com/citations?user=cSPQpGQAAAAJ&hl=en&inst=12058184521150304743'><img style="border:2px solid black;" align="middle" width="800" src="https://i.ibb.co/0CcdLf6/Bardia.png"></a>|
+|<a href='https://scholar.google.com/citations?user=Ksv9I0sAAAAJ&hl=en&inst=12058184521150304743'> <img style="border:2px solid black;" align="middle" width="800" src="https://i.ibb.co/rmGv8K7/Pouria.png"></a>|<a href='https://scholar.google.com/citations?user=cSPQpGQAAAAJ&hl=en&inst=12058184521150304743'><img style="border:2px solid black;" align="middle" width="800" src="https://i.ibb.co/0CcdLf6/Bardia.png"></a>|
 |<a href='https://scholar.google.com/citations?user=6HV5eJAAAAAJ&hl=en&inst=12058184521150304743'><img style="border:2px solid black;" align="middle" width="800" src="https://i.ibb.co/82qS2tG/Shahriar.png"></a>|<a href='https://scholar.google.com/citations?user=JunFf6YAAAAJ&hl=en&inst=12058184521150304743'><img style="border:2px solid black;" align="middle" width="800" src="https://i.ibb.co/q0JHRqJ/Mana.png"></a>|
 |<a href='https://scholar.google.com/citations?hl=en&user=l16b6_wAAAAJ&view_op=list_works&gmla=AJsN-F5JqEPpyyk_oneXM2xw4Au3CilTxyfdXFRmb4l24Xe6vKw-SvZp1uPtM1JHSmF4gE8WWfsb96LvfGR1F3kg3ylt-e4XCg&inst=12058184521150304743'><img style="border:2px solid black;" align="middle" width="800" src="https://i.ibb.co/JvTfCX9/Shanli.png"></a>|<a href='https://scholar.google.com/citations?user=28JnjFEAAAAJ&hl=en&inst=12058184521150304743'><img style="border:2px solid black;" align="middle" width="800" src="https://i.ibb.co/DLGGB9X/Brad.png"></a>|
 
