@@ -14,7 +14,7 @@ Mayo Clinic, MN, USA
 <br> 
 (*) co-first authors (+) corresponding author  
     
-#### <a href="url">[Link to the Manuscript]</a> | <a href="https://43edbecaa1950536.gradio.app">[Link to the Online Tool]</a>
+#### <a href="url">[Link to the Manuscript]</a> | <a href="https://7b2bb87c2625c5b6.gradio.app">[Link to the Online Tool]</a>
 
 </div> 
 
@@ -47,8 +47,8 @@ Our online tool is a graphical user interface made possible by [Gradio](https://
 
 - You can drag and drop your desirable image into the "input image" placeholder, or click on that placeholder to open an upload dialog box for selecting your image.
 - Uploaded input images should be axial slices from brain magnetic resonance imaging (MRI) in either of the following slices: T1-weighted, post-contrast T1-weighted, T2-weighted, or Fluid attenuation inversion recovery (FLAIR).
-- In order for our tool to work properly, the uploaded input images should be pre-processed as are the images in the <a href="http://braintumorsegmentation.org/">BRATS 2021 dataset</a> (e.g., skull-stripped), and have no lower resolution than 240 * 240. 
-- If you just need a few example images to try our app, feel free to download some from <a href="https://drive.google.com/drive/folders/1SdQpcgQU8JPE7K-1NKXJDMIwIG9qIiMF?usp=sharing">this link</a>. These examples all come from a subset of BRATS2021 dataset that was held out as a separate test set for our deep learning model.
+- In order for our tool to work properly, the uploaded input images should be pre-processed as are the images in the <a href="http://braintumorsegmentation.org/">BraTS 2021 dataset</a> (e.g., skull-stripped), and have no lower resolution than 240 * 240. 
+- If you just need a few example images to try our app, feel free to download some from <a href="https://drive.google.com/drive/folders/1SdQpcgQU8JPE7K-1NKXJDMIwIG9qIiMF?usp=sharing">this link</a>. These examples all come from a subset of BraTS2021 dataset that was held out as a separate test set for our deep learning model.
 
 ### Instructions for annoting the the input image:
 - Once an appropriate input image has been uploaded, the next step is to annotate your desired region of interests (ROIs) on the input image. You can draw your annotations by  utilizing the color-sketch tool that is accessible on top of the input-image placeholder.
