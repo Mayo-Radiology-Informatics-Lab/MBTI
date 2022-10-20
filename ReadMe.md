@@ -1,5 +1,3 @@
-<!-- #responsive-image{  width: 100%;  height: auto; align="middle";}  -->
-
 <div align='center'>    
     
 # Multitask Brain Tumor Inpainting with Diffusion Models
@@ -16,7 +14,7 @@ Mayo Clinic, MN, USA
 <br> 
 (*) co-first authors (+) corresponding author  
     
-#### <a href="url">[Link to the Manuscript]</a> | <a href="https://eb7ffe390f10e90f.gradio.app">[Link to the Online Tool]</a>
+#### <a href="url">[Link to the Manuscript]</a> | <a href="https://e8d01abd3a775546.gradio.app">[Link to the Online Tool]</a>
 
 </div> 
 
@@ -29,7 +27,7 @@ Mayo Clinic, MN, USA
 <div align='center'> 
 
 <kbd>
-<img src="demo.gif" id="responsive">
+<img src="demo.gif">
 </kbd>
     
 </div>
