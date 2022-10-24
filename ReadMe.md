@@ -14,7 +14,7 @@ Mayo Clinic, MN, USA
 <br> 
 (*) co-first authors (+) corresponding author  
     
-#### <a href="https://arxiv.org/abs/2210.12113">[Link to the Manuscript]</a> | <a href="https://4b5a1d466ed761fe.gradio.app">[Link to the Online Tool]</a>
+#### <a href="https://arxiv.org/abs/2210.12113">[Link to the Manuscript]</a> | <a href="https://13698efc4f2ff122.gradio.app">[Link to the Online Tool]</a>
 
 </div> 
 
